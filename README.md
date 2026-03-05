@@ -8,9 +8,9 @@ De slimste afval-app voor inwoners van de gemeente Dijk en Waard (waaronder Heer
 
 <p align="center">
   <img src="./images/1.png?text=Home+Scherm" width="200" />
-  <img src="./images/2.png/250x500.png?text=Kalender" width="200" />
+  <img src="./images/2.png?text=Kalender" width="200" />
   <img src="./images/3.png?text=AI+Scanner" width="200" />
-  <img src="./images/4.png/250x500.png?text=Instellingen" width="200" />
+  <img src="./images/4.png?text=Instellingen" width="200" />
 </p>
 
 ---
