@@ -7,9 +7,10 @@
 De slimste afval-app voor inwoners van de gemeente Dijk en Waard (waaronder Heerhugowaard). Bekijk direct je persoonlijke ophaaldagen en gebruik de ingebouwde kunstmatige intelligentie (AI) om te scannen in welke bak je afval hoort.
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Scherm" width="200" />
-  <img src="https://via.placeholder.com/250x500.png?text=AI+Scanner" width="200" />
-  <img src="https://via.placeholder.com/250x500.png?text=Kalender" width="200" />
+  <img src="./images/1.png?text=Home+Scherm" width="200" />
+  <img src="./images/2.png/250x500.png?text=Kalender" width="200" />
+  <img src="./images/3.png?text=AI+Scanner" width="200" />
+  <img src="./images/4.png/250x500.png?text=Instellingen" width="200" />
 </p>
 
 ---
