@@ -43,7 +43,7 @@ Deze app is gebouwd met moderne web- en mobiele technologieën:
 
 Heb je een vraag, een bug gevonden of een suggestie voor de app?
 * Maak een [Issue](https://github.com/Chaisser/Afvalwijzer-Dijk-En-Waard/issues) aan in deze repository.
-* Of stuur een e-mail naar: **jouw.doruk.karaboncuk@gmail.com**
+* Of stuur een e-mail naar: **doruk.karaboncuk@gmail.com**
 
 ## 📄 Privacy Policy
 
